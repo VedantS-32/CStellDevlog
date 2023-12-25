@@ -1,0 +1,3 @@
+[submodule "themes/blist-theme"]
+	path = themes/blist-theme
+	url = https://github.com/VedantS-32/blist-theme.git
