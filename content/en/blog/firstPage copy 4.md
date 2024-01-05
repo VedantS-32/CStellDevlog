@@ -1,18 +1,16 @@
 ---
 author: "Vedant Shahare"
-title: "Test"
+title: "Constellation Engine"
 date: 2021-07-15
-description: "Testing the panels"
+uniqueID: 1
+projectType: Ongoing
+description: "3D game engine written in C++ using Vulkan"
 tags: ["test"]
 thumbnail: "/AfterWinter.jpg"
 thumbnailArray:
- - "/AfterWinter.jpg"
  - "/Serenity_in_the_Dark_Final.jpg"
+ - "/AfterWinter.jpg"
 ---
-+++
-title = 'FirstPage'
-date = 2023-12-25T13:35:10+05:30
-+++
 
 ### This is test for homepage
 

@@ -90,6 +90,8 @@
       "icon-tabler-brand-instagram",
       "icon-tabler-brand-youtube",
       "icon-tabler-chevron-down",
+      "imageContainer_1",
+      "imageContainer_2",
       "inline-block",
       "items-center",
       "items-end",
@@ -196,8 +198,8 @@
     "ids": [
       "TableOfContents",
       "a",
-      "imageContainer",
-      "slideshowContainer",
+      "imageContainer_1",
+      "imageContainer_2",
       "this-is-test-for-homepage"
     ]
   }

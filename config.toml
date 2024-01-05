@@ -13,7 +13,7 @@ DefaultContentLanguageInSubdir = true
     [languages.en.params]
       introTitle = "Hello! I am Vedant Shahare"
       introSubtitle = "Artist and Indie Game Developer"
-      introPhoto = "/picture.jpg"
+      introPhoto = "/AfterWinter.jpg"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
@@ -123,16 +123,16 @@ DefaultContentLanguageInSubdir = true
     url = "https://twitter.com/"
   [[params.homepage.social.icons]]
     website = "linkedin"
-    url = "https://linkedin.com/in/"
+    url = "https://www.linkedin.com/in/vedant-shahare-191163258/"
   [[params.homepage.social.icons]]
     website = "github"
-    url = "https://github.com/"
+    url = "https://github.com/VedantS-32"
   [[params.homepage.social.icons]]
     website = "youtube"
     url = "https://youtube.com"
   [[params.homepage.social.icons]]
     website = "instagram"
-    url = "https://instagram.com"
+    url = "https://www.instagram.com/vedant_s64"
 
 [[menu.main]]
   name = "About"
