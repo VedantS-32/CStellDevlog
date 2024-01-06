@@ -1,10 +1,10 @@
 ---
 author: "Vedant Shahare"
-title: "Digital Paintings"
+title: "Environments Design"
 date: 2021-07-15
-uniqueID: 2
+uniqueID: 3
 projectType: "ArtworkHighlight"
-description: "2D illustrations painted in Krita"
+description: "Made using Unreal Engine and Blender"
 tags: ["test"]
 thumbnail: "/AfterWinter.jpg"
 thumbnailArray:

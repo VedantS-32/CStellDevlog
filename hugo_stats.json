@@ -92,6 +92,7 @@
       "icon-tabler-chevron-down",
       "imageContainer_1",
       "imageContainer_2",
+      "imageContainer_3",
       "inline-block",
       "items-center",
       "items-end",
@@ -198,8 +199,6 @@
     "ids": [
       "TableOfContents",
       "a",
-      "imageContainer_1",
-      "imageContainer_2",
       "this-is-test-for-homepage"
     ]
   }

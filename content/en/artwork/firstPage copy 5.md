@@ -1,15 +1,14 @@
 ---
 author: "Vedant Shahare"
-title: "Constellation Engine"
+title: "Digital Paintings"
 date: 2021-07-15
-uniqueID: 1
-projectType: Ongoing
-description: "3D game engine written in C++ using Vulkan"
+uniqueID: 2
+projectType: "ArtworkHighlight"
+description: "2D illustrations painted in Krita"
 tags: ["test"]
 thumbnail: "/AfterWinter.jpg"
 thumbnailArray:
  - "/Serenity_in_the_Dark_Final.jpg"
- - "/AfterWinter.jpg"
 ---
 
 ### This is test for homepage
