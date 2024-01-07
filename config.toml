@@ -74,6 +74,8 @@ DefaultContentLanguageInSubdir = true
   frontBundle = "blog"
   ongoingProject = "ongoing"
   artworkHighlight = "artwork"
+  artworkBlog = "artwork-blog"
+  pastProject = "past-project"
 
   # Used to hide the post metadata such as posted date, reading time and word count
   # Can be used at site level or page level
