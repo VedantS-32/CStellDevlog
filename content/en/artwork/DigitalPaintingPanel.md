@@ -1,10 +1,10 @@
 ---
 author: "Vedant Shahare"
-title: "Artwork Gallery"
+title: "Digital Paintings Gallery"
 date: 2024-01-07
 uniqueID: 2
 projectType: "ArtworkHighlight"
-description: "Click on the panel to visit gallery"
+description: "'A Frame from a Moment' -Click to Visit the Gallery-"
 tags: ["2D illustration", "Krita", "Drawing", "Blender"]
 thumbnail: "/SerenityInTheDarkBlog/SerenityInTheDark_Final.png"
 thumbnailArray:

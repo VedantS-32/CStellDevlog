@@ -75,7 +75,7 @@ DefaultContentLanguageInSubdir = true
   ongoingProject = "ongoing"
   artworkHighlight = "artwork"
   artworkBlog = "artwork-blog"
-  pastProject = "past-project"
+  project = "project"
 
   # Used to hide the post metadata such as posted date, reading time and word count
   # Can be used at site level or page level
@@ -120,7 +120,7 @@ DefaultContentLanguageInSubdir = true
 [params.homepage.social]
   # Global params common for both languages
   title = "Follow me!"
-  description = "I post from digital illustration to my coding ventures"
+  description = "I post from artworks to my coding ventures"
 
   [[params.homepage.social.icons]]
     website = "twitter"
