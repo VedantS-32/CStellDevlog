@@ -11,7 +11,7 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Hello! I am Vedant Shahare"
+      introTitle = "Vedant Shahare"
       introSubtitle = "Artist and Indie Game Developer"
       introPhoto = "/AfterWinter.jpg"
       logo = "/blist-logo.png"
@@ -22,23 +22,13 @@ DefaultContentLanguageInSubdir = true
 
     [[languages.en.menu.main]]
         name = "About"
-        url = "page/about/"
+        url = "about/about"
         weight = 2
 
-    [[languages.en.menu.main]]
-        name = "Tags"
-        url = "tags"
-        weight = 3
-
-    [[languages.en.menu.main]]
-        name = "Top Post"
-        url = "/en/blog/emoji-support/"
-        weight = 4
-
-  [languages.dy]
-    contentDir = "content/dy" #Example language
-    weight = 3
-    languageName = "Test Language"
+    # [[languages.en.menu.main]]
+    #     name = "Tags"
+    #     url = "tags"
+    #     weight = 3
 
 [params]
   # Enable the darkmode toggle in header
@@ -76,6 +66,7 @@ DefaultContentLanguageInSubdir = true
   artworkHighlight = "artwork"
   artworkBlog = "artwork-blog"
   project = "project"
+  ICW = "ICWBlogs"
 
   # Used to hide the post metadata such as posted date, reading time and word count
   # Can be used at site level or page level
