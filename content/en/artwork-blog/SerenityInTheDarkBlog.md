@@ -4,7 +4,7 @@ title: "Serenity in the Dark"
 date: 2024-01-07
 description: "Summer nights sure feel mysterious"
 tags: ["2D illustration", "Krita", "Drawing"]
-thumbnail: "/SerenityInTheDarkBlog/SerenityInTheDark_Final.png"
+thumbnail: "/CStellDevlog/SerenityInTheDarkBlog/SerenityInTheDark_Final.png"
 ---
 
 ### Serenity In The Dark
@@ -15,13 +15,13 @@ My second painting is finally finished and I just realized it's been more than a
 
 Completed on June 6, 2023
 
-![SerenityInTheDark](/SerenityInTheDarkBlog/SerenityInTheDark_Final.png)
+![SerenityInTheDark](/CStellDevlog/SerenityInTheDarkBlog/SerenityInTheDark_Final.png)
 
 ### Before Post Processing
 
 I did some color adjustments at the end
 
-![SerenityInTheDarkNoPostProcess](/SerenityInTheDarkBlog/SerenityInTheDark_NoPostProcess.png)
+![SerenityInTheDarkNoPostProcess](/CStellDevlog/SerenityInTheDarkBlog/SerenityInTheDark_NoPostProcess.png)
 
 ### Balancing Composition
 
@@ -29,35 +29,35 @@ I imagined her to have magical lamps hanging from her Halbert(Polearm) to illumi
 
 Here how it look without her earring
 
-![SerenityInTheDarkNoEarring](/SerenityInTheDarkBlog/SerenityInTheDark_NoEarring.png)
+![SerenityInTheDarkNoEarring](/CStellDevlog/SerenityInTheDarkBlog/SerenityInTheDark_NoEarring.png)
 
 ### Did You Noticed The Hairpin?
 
 Yeah, she has hairpin
 
-![SerenityInTheDarkHairpin](/SerenityInTheDarkBlog/SerenityInTheDark_Hairpin.png)
+![SerenityInTheDarkHairpin](/CStellDevlog/SerenityInTheDarkBlog/SerenityInTheDark_Hairpin.png)
 
 ### Water Layer
 
 I mirrored the upper sky part and erased the grass mask layer. And again painted the grass over both the layers
 
 Without Grass Mask
-![SerenityInTheDarkNoWaterLayer](/SerenityInTheDarkBlog/SerenityInTheDark_NoWaterLayer.png)
+![SerenityInTheDarkNoWaterLayer](/CStellDevlog/SerenityInTheDarkBlog/SerenityInTheDark_NoWaterLayer.png)
 
 With Grass Mask
-![SerenityInTheDarkGrassMask](/SerenityInTheDarkBlog/SerenityInTheDark_GrassMask.png)
+![SerenityInTheDarkGrassMask](/CStellDevlog/SerenityInTheDarkBlog/SerenityInTheDark_GrassMask.png)
 
 Top Grass Layer
-![SerenityInTheTopGrassLayer](/SerenityInTheDarkBlog/SerenityInTheDark_TopGrassLayer.png)
+![SerenityInTheTopGrassLayer](/CStellDevlog/SerenityInTheDarkBlog/SerenityInTheDark_TopGrassLayer.png)
 
 ### How I Painted Halbert
 
 Last time polearm in my painting After Winter was not looking good so I made 3D model in Blender to get it right this time.
 I made 3D model in the Blender, positioned it according to the painting, rendered and imported image in Krita. And painted over it.
 
-![SerenityInTheDark3DModel](/SerenityInTheDarkBlog/SerenityInTheDark_3DModel.png)
+![SerenityInTheDark3DModel](/CStellDevlog/SerenityInTheDarkBlog/SerenityInTheDark_3DModel.png)
 
-![SerenityInTheDarkUV](/SerenityInTheDarkBlog/SerenityInTheDark_UV.png)
+![SerenityInTheDarkUV](/CStellDevlog/SerenityInTheDarkBlog/SerenityInTheDark_UV.png)
 
 ### Technologies Used
 

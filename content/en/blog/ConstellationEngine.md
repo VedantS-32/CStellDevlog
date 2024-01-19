@@ -6,9 +6,9 @@ uniqueID: 1
 projectType: "Ongoing"
 description: "3D game engine written in C++"
 tags: ["Game Development", "Game Engine", "C++", "OpenGL", "Vulkan", "3D", "Premake"]
-thumbnail: "/ConstellationEngine/CStell_tbn0.png"
+thumbnail: "/CStellDevlog/ConstellationEngine/CStell_tbn0.png"
 thumbnailArray:
- - "/ConstellationEngine/CStell_tbn0.png"
+ - "/CStellDevlog/ConstellationEngine/CStell_tbn0.png"
 
 ---
 
@@ -20,7 +20,7 @@ Rendering Constellations!
 
 Private for the time being
 
-[GitHub Repository](https://github.com/VedantS-32/ConstellationEngine.git)
+[GitHub Repository](https://github.com/VedantS-32/CStellDevlog/ConstellationEngine.git)
 
 ### Aims
 

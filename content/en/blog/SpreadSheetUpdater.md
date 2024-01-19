@@ -4,14 +4,14 @@ title: "Spreadsheet Updater"
 date: 2024-01-07
 description: "Automation python script to update data at specific position spreadsheet using Google Form"
 tags: ["Spreadsheet", "GoogleAPI", "Python"]
-thumbnail: "/SpreadSheetUpdater/SSUThumbnail.png"
+thumbnail: "/CStellDevlog/SpreadSheetUpdater/SSUThumbnail.png"
 ---
 
 ### Spreadsheet Updater
 
 A simple python script to extract data collected from Google form and update data in Google Sheet at a specific location
 
-[GitHub Repositary](https://github.com/VedantS-32/SpreadSheetUpdater.git)
+[GitHub Repositary](https://github.com/VedantS-32/CStellDevlog/SpreadSheetUpdater.git)
 
 ### Why does this exist?
 
@@ -107,14 +107,14 @@ if (FormRowValue[FormField.Question1.value] != ''):
 
 That's all you need to get this working
 
-![FormWorksheet](/SpreadSheetUpdater/FormWorksheet.png)
+![FormWorksheet](/CStellDevlog/SpreadSheetUpdater/FormWorksheet.png)
 
 In Action
 
-{{< embedVideo "SSU" "/SpreadSheetUpdater/SSUClip.mp4">}}
+{{< embedVideo "SSU" "/CStellDevlog/SpreadSheetUpdater/SSUClip.mp4">}}
 
 ### External
 
-[GitHub Repositary](https://github.com/VedantS-32/SpreadSheetUpdater.git)
+[GitHub Repositary](https://github.com/VedantS-32/CStellDevlog/SpreadSheetUpdater.git)
 
 Thank you for reading!

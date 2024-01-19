@@ -4,7 +4,7 @@ title: "About me"
 date: 2024-01-15
 description: "Nice to meet you I am Vedant Shahare"
 tags: ["About"]
-thumbnail: "/AfterWinterBlog/AfterWinter_Final-min.png"
+thumbnail: "/CStellDevlog/AfterWinterBlog/AfterWinter_Final-min.png"
 ---
 
 ### Summary

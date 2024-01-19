@@ -4,7 +4,7 @@ title: "CStellSFML 2D Game Engine"
 date: 2024-01-07
 description: "2D Game Engine written in C++ and SFML, Implementing ECS Architecture"
 tags: ["Game Development", "Game Engine", "C++", "SFML", "ECS"]
-thumbnail: "/CStellEngineSFML/CStellSFML_Thumbnail.png"
+thumbnail: "/CStellDevlog/CStellEngineSFML/CStellSFML_Thumbnail.png"
 ---
 
 ### CStell Engine SFML
@@ -30,17 +30,17 @@ WARNING: this project wasn't made with the focus of compatibity and protability,
 
 Dockable menu UI is made with the help of ImGui
 
-{{< embedVideo "CStellEditor" "/CStellEngineSFML/CStell_DockableEditor.mp4">}}
+{{< embedVideo "CStellEditor" "/CStellDevlog/CStellEngineSFML/CStell_DockableEditor.mp4">}}
 
 ### Drag and Drop Editor
 
 Tracking and Truncating mouse position while entity is selected
 
-{{< embedVideo "CStellDragnDrop" "/CStellEngineSFML/CStell_DragnDrop.mp4">}}
+{{< embedVideo "CStellDragnDrop" "/CStellDevlog/CStellEngineSFML/CStell_DragnDrop.mp4">}}
 
 ### Operations at Runtime
 
-{{< embedVideo "CStellRuntimeOps" "/CStellEngineSFML/CStell_RuntimeOps.mp4">}}
+{{< embedVideo "CStellRuntimeOps" "/CStellDevlog/CStellEngineSFML/CStell_RuntimeOps.mp4">}}
 
 Pretty cool right?
 
@@ -54,13 +54,13 @@ Pretty cool right?
 
 A simple AABB detection and resolution
 
-{{< embedVideo "CStellAABB" "/CStellEngineSFML/CStell_AABB.mp4">}}
+{{< embedVideo "CStellAABB" "/CStellDevlog/CStellEngineSFML/CStell_AABB.mp4">}}
 
 ### Saving the Scene
 
 Serializer/Deserializer using YAML file
 
-{{< embedVideo "CStellSaveLoad" "/CStellEngineSFML/CStell_SaveLoad.mp4">}}
+{{< embedVideo "CStellSaveLoad" "/CStellDevlog/CStellEngineSFML/CStell_SaveLoad.mp4">}}
 
 ### External
 

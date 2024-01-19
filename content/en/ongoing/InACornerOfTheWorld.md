@@ -6,10 +6,10 @@ uniqueID: 23
 projectType: "Ongoing"
 description: "A small puzzle horror RPG"
 tags: ["Game Development", "Unreal Engine", "Blueprint", "Horror", "Puzzle", "Story", "RPG", "Game", "Pixel Art", "3D"]
-thumbnail: "/InACornerOfTheWorld/ICW_tbn0.png"
+thumbnail: "/CStellDevlog/InACornerOfTheWorld/ICW_tbn0.png"
 blog: true
 thumbnailArray:
- - "/InACornerOfTheWorld/ICW_tbn0.png"
+ - "/CStellDevlog/InACornerOfTheWorld/ICW_tbn0.png"
 ---
 
 ### In a Corner of the World

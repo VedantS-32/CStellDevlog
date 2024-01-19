@@ -4,7 +4,7 @@ title: "After Winter"
 date: 2024-01-07
 description: "My first completed digital painting!"
 tags: ["2D illustration", "Krita", "Drawing"]
-thumbnail: "/AfterWinterBlog/AfterWinter_Final-min.png"
+thumbnail: "/CStellDevlog/AfterWinterBlog/AfterWinter_Final-min.png"
 ---
 
 ### After Winter
@@ -15,17 +15,17 @@ Today is a big day for me. I finally finished a painting.
 
 Completed on April 11, 2023
 
-![AfterWinter](/AfterWinterBlog/AfterWinter_Final.png)
+![AfterWinter](/CStellDevlog/AfterWinterBlog/AfterWinter_Final.png)
 
 ### Without Bloom
 
 Color dodge layers makes huge difference.
-![AfterWinterNoBloom](/AfterWinterBlog/AfterWinter_NoBloom.png)
+![AfterWinterNoBloom](/CStellDevlog/AfterWinterBlog/AfterWinter_NoBloom.png)
 
 ### Grass Layers
 
-![AfterWinterGrassLayer](/AfterWinterBlog/AfterWinter_GrassLayer.png)
-![AfterWinterGrassBase](/AfterWinterBlog/AfterWinter_GrassBase.png)
+![AfterWinterGrassLayer](/CStellDevlog/AfterWinterBlog/AfterWinter_GrassLayer.png)
+![AfterWinterGrassBase](/CStellDevlog/AfterWinterBlog/AfterWinter_GrassBase.png)
 
 ### Technologies Used
 
