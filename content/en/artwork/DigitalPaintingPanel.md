@@ -20,7 +20,7 @@ Mysterious summer night
 
 Technologies Used Krita Blender
 
-Checkout [Serenity In The Dark Blog](/en/blog/SerenityInTheDarkBlog)
+Checkout [Serenity In The Dark Blog](/CStellDevlog/en/blog/SerenityInTheDarkBlog)
 
 ### After Winter
 
@@ -30,7 +30,7 @@ After Winter sun brightens, the leaves fallen and frozen again flourishes the su
 
 Technologies Used Krita
 
-Checkout [After Winter Blog](/en/blog/AfterWinterBlog)
+Checkout [After Winter Blog](/CStellDevlog/en/blog/AfterWinterBlog)
 
 ### End
 
