@@ -4,7 +4,7 @@ title: "Skill Completion Pipeline"
 date: 2024-01-07
 description: "Repository of learning resources - College project on theme 'Innovative Idea'"
 tags: ["Project", "Godot", "YouTubeAPI", "FireStoreAPI"]
-thumbnail: "/SkillCompletionPipeline/SCP_Thumbnail.png"
+thumbnail: "/CStellDevlog/SkillCompletionPipeline/SCP_Thumbnail.png"
 ---
 
 ### Project Skill Completion Pipeline 'Powered by You'
@@ -34,11 +34,11 @@ To get started with the Skill Completion Pipeline:
 3. In scripts folder open "C_APIKeys(github).gd" rename it to "C_APIKeys.gd" and enter your keys.
 4. Use this template for document in FireStore collection.
 
-![FireStoreFormat](/SkillCompletionPipeline/FireStoreFormat.png)
+![FireStoreFormat](/CStellDevlog/SkillCompletionPipeline/FireStoreFormat.png)
 
 ### In Action
 
-{{< embedVideo "SCP" "/SkillCompletionPipeline/SCP_Final.mp4">}}
+{{< embedVideo "SCP" "/CStellDevlog/SkillCompletionPipeline/SCP_Final.mp4">}}
 
 ### Technologies Used
 
