@@ -11,7 +11,7 @@ thumbnail: "/CStellDevlog/SpreadSheetUpdater/SSUThumbnail.png"
 
 A simple python script to extract data collected from Google form and update data in Google Sheet at a specific location
 
-[GitHub Repositary](https://github.com/VedantS-32/CStellDevlog/SpreadSheetUpdater.git)
+[GitHub Repositary](https://github.com/VedantS-32/SpreadSheetUpdater.git)
 
 ### Why does this exist?
 

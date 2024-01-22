@@ -18,7 +18,7 @@ Rendering Constellations!
 
 3D Game Engine written in C++
 
-[GitHub Repository](https://github.com/VedantS-32/CStellDevlog/ConstellationEngine.git)
+[GitHub Repository](https://github.com/VedantS-32/ConstellationEngine.git)
 
 ### Aims
 
