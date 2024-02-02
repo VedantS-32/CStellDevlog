@@ -13,7 +13,7 @@ DefaultContentLanguageInSubdir = true
     [languages.en.params]
       introTitle = "Vedant Shahare"
       introSubtitle = "Artist and Indie Game Developer"
-      introPhoto = "/CStellDevlog/AfterWinterBlog/AfterWinter_Final-min.png"
+      introPhoto = "/CStellDevlog/CStell_Splash1_CG-min.jpg"
       logo = "/CStellDevlog/CStell2.svg"
     [[languages.en.menu.main]]
         name = "Blog"
