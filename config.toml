@@ -15,20 +15,26 @@ DefaultContentLanguageInSubdir = true
       introSubtitle = "Artist and Indie Game Developer"
       introPhoto = "/CStellDevlog/CStell_Splash1_CG-min.jpg"
       logo = "/CStellDevlog/CStell2.svg"
+
+    [[languages.en.menu.main]]
+        name = "Resume"
+        url = "https://VedantS-32.github.io/CStellDevlog/resume_vedant_shahare.pdf"
+        weight = 1
+        
     [[languages.en.menu.main]]
         name = "Blog"
         url = "blog"
-        weight = 1
+        weight = 3
 
     [[languages.en.menu.main]]
-        name = "About"
+        name = "About Me"
         url = "about/about"
         weight = 2
 
     [[languages.en.menu.main]]
         name = "Tags"
         url = "tags"
-        weight = 3
+        weight = 4
 
 [params]
   # Enable the darkmode toggle in header
