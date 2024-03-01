@@ -47,8 +47,8 @@
     "classes": [
       "absolute",
       "active",
-      "bg-blue-100",
       "bg-gray-100",
+      "bg-rose-300",
       "bg-white",
       "border",
       "border-transparent",
