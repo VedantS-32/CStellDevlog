@@ -6,9 +6,12 @@ uniqueID: 1
 projectType: "Ongoing"
 description: "3D game engine written in C++"
 tags: ["Game Development", "Game Engine", "C++", "OpenGL", "Vulkan", "3D", "Premake"]
-thumbnail: "/CStellDevlog/ConstellationEngine/CStell_tbn0.png"
+thumbnail: "/CStellDevlog/ConstellationEngine/CStell_tbn1.png"
+CStellBlog: true
 thumbnailArray:
- - "/CStellDevlog/ConstellationEngine/CStell_tbn0.png"
+ - "/CStellDevlog/ConstellationEngine/CStell_Pic0.png"
+ - "/CStellDevlog/ConstellationEngine/CStell_Pic1.png"
+ - "/CStellDevlog/ConstellationEngine/CStell_Pic2.png"
 
 ---
 

@@ -1,11 +1,11 @@
 ---
 author: "Vedant Shahare"
-title: "Constellation Engine"
+title: "Constellation Engine Blog0"
 date: 2024-08-07
 projectType: "Ongoing"
-description: "3D game engine written in C++"
+description: "Added model and material system"
 tags: ["Game Development", "Game Engine", "C++", "OpenGL", "Vulkan", "3D", "Premake"]
-thumbnail: "/CStellDevlog/ConstellationEngine/CStell_tbn0.png"
+thumbnail: "/CStellDevlog/ConstellationEngine/CStell_tbn1.png"
 ---
 
 ### Loading models in CStell!
@@ -23,3 +23,6 @@ Shader uniforms are automatically reflected to editor
 ### Instantaneous material reload
 Shaders can be recompiled restarting the whole engine.
 {{<embedVideo "MaterialReload" "/CStellDevlog/ConstellationEngine/Blog0/CStell_MaterialReload.mp4">}}
+
+### External
+[GitHub Repository](https://github.com/VedantS-32/ConstellationEngine.git)

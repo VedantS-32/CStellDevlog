@@ -73,6 +73,7 @@ DefaultContentLanguageInSubdir = true
   artworkBlog = "artwork-blog"
   project = "project"
   ICW = "ICWBlogs"
+  CStell = "CStellBlogs"
 
   # Used to hide the post metadata such as posted date, reading time and word count
   # Can be used at site level or page level
