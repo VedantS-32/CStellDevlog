@@ -5,7 +5,7 @@ date: 2024-08-07
 projectType: "Ongoing"
 description: "Added model and material system"
 tags: ["Game Development", "Game Engine", "C++", "OpenGL", "Vulkan", "3D", "Premake"]
-thumbnail: "/CStellDevlog/ConstellationEngine/CStell_tbn0.png"
+thumbnail: "/CStellDevlog/ConstellationEngine/CStell_tbn1.png"
 ---
 
 ### Loading models in CStell!

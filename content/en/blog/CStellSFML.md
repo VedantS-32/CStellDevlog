@@ -4,7 +4,7 @@ title: "CStellSFML 2D Game Engine"
 date: 2024-01-07
 description: "2D Game Engine written in C++ and SFML, Implementing ECS Architecture"
 tags: ["Game Development", "Game Engine", "C++", "SFML", "ECS"]
-thumbnail: "/CStellDevlog/CStellEngineSFML/CStellSFML_Thumbnail.png"
+thumbnail: "/CStellDevlog/CStellEngineSFML/CStellSFMl_Thumbnail.png"
 ---
 
 ### CStell Engine SFML
