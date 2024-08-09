@@ -8,8 +8,9 @@ description: "3D game engine written in C++"
 tags: ["Game Development", "Game Engine", "C++", "OpenGL", "Vulkan", "3D", "Premake"]
 thumbnail: "/CStellDevlog/ConstellationEngine/CStell_tbn1.png"
 thumbnailArray:
- - "/CStellDevlog/ConstellationEngine/CStell_tbn1.png"
-
+ - "/CStellDevlog/ConstellationEngine/CStell_Pic0.png"
+ - "/CStellDevlog/ConstellationEngine/CStell_Pic1.png"
+ - "/CStellDevlog/ConstellationEngine/CStell_Pic2.png"
 ---
 
 ### Constellation Engine
