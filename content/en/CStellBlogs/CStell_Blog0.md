@@ -21,7 +21,7 @@ Shader uniforms are automatically reflected to editor
 {{<embedVideo "ShaderReflection" "/CStellDevlog/ConstellationEngine/Blog0/CStell_ShaderReflection.mp4">}}
 
 ### Instantaneous material reload
-Shaders can be recompiled restarting the whole engine.
+Shaders can be recompiled without restarting the whole engine.
 {{<embedVideo "MaterialReload" "/CStellDevlog/ConstellationEngine/Blog0/CStell_MaterialReload.mp4">}}
 
 ### External
