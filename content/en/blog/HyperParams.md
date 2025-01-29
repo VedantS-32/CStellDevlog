@@ -49,13 +49,22 @@ Model is the process of choosing the best machine learning model for a given dat
     - **Regression Problem**: When we need predictions of continous numerical value based on input features.
     Examples are weather prediction, house prediction. Algorithms used linear regression, random forest, gradient boosting.
 
+    ![LSLP](/CStellDevlog/Other/Regression.png)
+    *fig0: Linear Regression*
+
     - **Classification**: It is used where goal of it is to predict discrete labels.
     Examples are identifying letters in handwritten text, classifying news categories like gaming, politics.
     Algorithms used logistic regression, decision trees, neural networks.
 
+    ![LSLP](/CStellDevlog/Other/Classifier.png)
+    *fig1: Decision Tree Classification*
+
     - **Clustering**: When the goal is to group similar data points together without predefined labels.
     Examples are customer segementation based on their buying behavior, document clustering, anomaly detection.
      Algorithms used K-Means, DBSCAN, hierarchical clustering.
+
+     ![LSLP](/CStellDevlog/Other/Clustering.png)
+     *fig2: K-Means Clustering*
 
   * **Computation Resources Available:**
     - **Limited Resources**: If you are limited on resources used algorithms which are less computationally expensive like
