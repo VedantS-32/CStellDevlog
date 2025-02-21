@@ -15,30 +15,54 @@ thumbnailArray:
 
 ---
 
-### Constellation Engine
 
+### Constellation Engine
 Rendering Constellations!
 
 3D Game Engine written in C++
 
-[GitHub Repository](https://github.com/VedantS-32/ConstellationEngine.git)
+### CGraphicsCore
+Please visit CGraphicsCore repository for latest version Constellation Engine codebase
+[CGraphicsCore](https://github.com/VedantS-32/ConstellationEngine)
+
+3D renderer and framework for learning OpenGL. It is rewrite of Constellation Engine(CStell) for educational purpose and betterment of CStell.
+
+~~[Old Version](https://github.com/VedantS-32/ConstellationEngine.git)~~
 
 
 ### Prerequisites
-- C++
+- C++ compiler(tested with gcc, clang and msvc)
+- Make
 - Python
 - Git
 
 ### Clone repository
 ```shell
-git clone --recursive https://github.com/VedantS-32/ConstellationEngine.git
+git clone --recursive https://github.com/VedantS-32/CGraphicsCore.git
 ```
 
 ### Build Instructions
-**Currently Windows only!**
 - Go to "script" folder
-- Run CStellSetup.bat
-- Run Win-GenerateProject.bat. By default this will generate ConstellationEngine.sln, please change this script to generate makefile or project files for other ide.
+- Note: Currently due to some platform specifics, CGraphicsCore doesn't compile on Unix platforms, it will be supported in future
+- Run CGraphicsSetup script for your platform
+- Then run GenerateProject for your platform
+- By default it will generate Makefile, please change Script/GenerateProject to generate project files for your IDE
+``` shell
+vendor\premake\bin\premake5.exe gmake2 #<-- Replace gmake2 with vs2022 for Visual Studio Solution
+```
+- If you have generated Visual Studio Solution, .sln file will be in root directory
+- if you have generated Makefile, open terminal in root directory and enter following command to build CGraphicsCore. After building go to CGraphicsSandbox and launch the binary (CGrpahicsSandbox.exe for Windows)
+``` shell
+make -j #Number of core you want to allocate for compilation
+```
+- Additionally you can specify build configuration and compiler
+``` shell
+make CC= C_Compiler CXX= C++_Compiler config=BuildConfig -j Cores
+```
+- Example
+``` shell
+    make CC=gcc CXX=g++ config=release -j 4
+```
 
 ### Aims
 
