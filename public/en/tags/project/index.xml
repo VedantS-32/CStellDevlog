@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project on CStellDevlog</title>
+    <link>http://localhost:1313/CStellDevlog/en/tags/project/</link>
+    <description>Recent content in Project on CStellDevlog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 07 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/CStellDevlog/en/tags/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Skill Completion Pipeline</title>
+      <link>http://localhost:1313/CStellDevlog/en/blog/skillcompletionpipeline/</link>
+      <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/CStellDevlog/en/blog/skillcompletionpipeline/</guid>
+      <description>&lt;h1 id=&#34;project-skill-completion-pipeline-powered-by-you&#34;&gt;Project Skill Completion Pipeline &amp;lsquo;Powered by You&amp;rsquo;&lt;/h1&gt;&#xA;&lt;p&gt;Welcome to the Project Skill Completion Pipeline repository! Hi, this is my first year college project on the theme &amp;ldquo;Inovative Idea&amp;rdquo;. This project aims to revolutionize the way we approach online learning by providing a structured and streamlined platform for skill acquisition. The overwhelming abundance of online learning resources often leaves learners uncertain about where to begin, what to learn next, and whether a course is worth their time. The Skill Completion Pipeline addresses these challenges by offering a curated repository of learning resources and a well-defined learning path for users of all skill levels.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Skill Completion Pipeline</title>
+      <link>http://localhost:1313/CStellDevlog/en/project/skillcompletionpipeline/</link>
+      <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/CStellDevlog/en/project/skillcompletionpipeline/</guid>
+      <description>&lt;h3 id=&#34;project-skill-completion-pipeline-powered-by-you&#34;&gt;Project Skill Completion Pipeline &amp;lsquo;Powered by You&amp;rsquo;&lt;/h3&gt;&#xA;&lt;p&gt;Welcome to the Project Skill Completion Pipeline repository! Hi, this is my first year college project on the theme &amp;ldquo;Inovative Idea&amp;rdquo;. This project aims to revolutionize the way we approach online learning by providing a structured and streamlined platform for skill acquisition. The overwhelming abundance of online learning resources often leaves learners uncertain about where to begin, what to learn next, and whether a course is worth their time. The Skill Completion Pipeline addresses these challenges by offering a curated repository of learning resources and a well-defined learning path for users of all skill levels.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on CStellDevlog</title>
+    <link>http://localhost:1313/CStellDevlog/en/project/</link>
+    <description>Recent content in Projects on CStellDevlog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 07 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/CStellDevlog/en/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CStellSFML 2D Game Engine</title>
+      <link>http://localhost:1313/CStellDevlog/en/project/cstellsfml/</link>
+      <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/CStellDevlog/en/project/cstellsfml/</guid>
+      <description>&lt;h3 id=&#34;cstell-engine-sfml&#34;&gt;CStell Engine SFML&lt;/h3&gt;&#xA;&lt;p&gt;2D game engine written in C++ and SFML.&#xA;This is just small project to learn more about Game Development, how Game Engine work under the hood and C++&lt;/p&gt;&#xA;&lt;p&gt;WARNING: this project wasn&amp;rsquo;t made with the focus of compatibity and protability, this is more like exploration and experiment. Just cloning the repository will not make it work out of box, you will need to manually link all libraries.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Skill Completion Pipeline</title>
+      <link>http://localhost:1313/CStellDevlog/en/project/skillcompletionpipeline/</link>
+      <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/CStellDevlog/en/project/skillcompletionpipeline/</guid>
+      <description>&lt;h3 id=&#34;project-skill-completion-pipeline-powered-by-you&#34;&gt;Project Skill Completion Pipeline &amp;lsquo;Powered by You&amp;rsquo;&lt;/h3&gt;&#xA;&lt;p&gt;Welcome to the Project Skill Completion Pipeline repository! Hi, this is my first year college project on the theme &amp;ldquo;Inovative Idea&amp;rdquo;. This project aims to revolutionize the way we approach online learning by providing a structured and streamlined platform for skill acquisition. The overwhelming abundance of online learning resources often leaves learners uncertain about where to begin, what to learn next, and whether a course is worth their time. The Skill Completion Pipeline addresses these challenges by offering a curated repository of learning resources and a well-defined learning path for users of all skill levels.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SpreadSheet Updater</title>
+      <link>http://localhost:1313/CStellDevlog/en/project/spreadsheetupdater/</link>
+      <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/CStellDevlog/en/project/spreadsheetupdater/</guid>
+      <description>&lt;h3 id=&#34;spreadsheetupdater&#34;&gt;SpreadSheetUpdater&lt;/h3&gt;&#xA;&lt;p&gt;A simple python script to extract data collected from Google form and update data in Google Sheet at a specific location&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/VedantS-32/SpreadSheetUpdater.git&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub Repositary&lt;/a&gt;&#xD;&#xA;&lt;/p&gt;&#xA;&lt;h3 id=&#34;why-does-this-exist&#34;&gt;Why does this exist?&lt;/h3&gt;&#xA;&lt;p&gt;When I was living in a hostel, there I was given work to collect details from all 110+ students from our hostel. Collecting there Home Address, Home Number, Personal Number, College Name, Timing and 10 items more. That was too much for me to handle. So I found out that I can access Google Sheet with Python and also results from Google Form can be linked to Google Sheet.&#xA;And &amp;ldquo;this&amp;rdquo; came into existance.&#xA;Now students only needs to fill a simple Google Form to update their monthly details.&#xA;As for me, I just need to run &amp;ldquo;this&amp;rdquo; script.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

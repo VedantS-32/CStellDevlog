@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blender on CStellDevlog</title>
+    <link>http://localhost:1313/CStellDevlog/en/tags/blender/</link>
+    <description>Recent content in Blender on CStellDevlog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 07 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/CStellDevlog/en/tags/blender/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Digital Paintings Gallery</title>
+      <link>http://localhost:1313/CStellDevlog/en/artwork/digitalpaintingpanel/</link>
+      <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/CStellDevlog/en/artwork/digitalpaintingpanel/</guid>
+      <description>&lt;h3 id=&#34;serenity-in-the-dark&#34;&gt;Serenity In The Dark&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/CStellDevlog/SerenityInTheDarkBlog/SerenityInTheDark_Final.png&#34; alt=&#34;SerenityInTheDark&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Mysterious summer night&lt;/p&gt;&#xA;&lt;p&gt;Technologies Used Krita Blender&lt;/p&gt;&#xA;&lt;p&gt;Checkout &lt;a href=&#34;http://localhost:1313/CStellDevlog/en/blog/serenityinthedarkblog&#34;&gt;Serenity In The Dark Blog&lt;/a&gt;&#xD;&#xA;&lt;/p&gt;&#xA;&lt;h3 id=&#34;after-winter&#34;&gt;After Winter&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/CStellDevlog/AfterWinterBlog/AfterWinter_Final.png&#34; alt=&#34;AfterWinter&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;After Winter sun brightens, the leaves fallen and frozen again flourishes the summits of Haldet Range and warmth begins next Spring.&lt;/p&gt;&#xA;&lt;p&gt;Technologies Used Krita&lt;/p&gt;&#xA;&lt;p&gt;Checkout &lt;a href=&#34;http://localhost:1313/CStellDevlog/en/blog/afterwinterblog&#34;&gt;After Winter Blog&lt;/a&gt;&#xD;&#xA;&lt;/p&gt;&#xA;&lt;h3 id=&#34;end&#34;&gt;End&lt;/h3&gt;&#xA;&lt;p&gt;Thank You for Reading!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

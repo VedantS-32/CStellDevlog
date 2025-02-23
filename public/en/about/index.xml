@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on CStellDevlog</title>
+    <link>http://localhost:1313/CStellDevlog/en/about/</link>
+    <description>Recent content in Abouts on CStellDevlog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 15 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/CStellDevlog/en/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>http://localhost:1313/CStellDevlog/en/about/about/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/CStellDevlog/en/about/about/</guid>
+      <description>&lt;h3 id=&#34;resume&#34;&gt;Resume&lt;/h3&gt;&#xA;  &lt;a href=&#34;http://localhost:1313/CStellDevlog/resume_vedant_shahare.pdf&#34; download class=&#34;text-1xl font-bold mb-2&#34;&gt;&#34;DownloadResume&#34;&lt;/a&gt;&#xA;&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;&#xA;&lt;p&gt;Nice to meet you I am Vedant Shahare, an indie game developer currently working on a small horror RPG and learning to make game engines. My expertise encompasses the utilization of software tools such as Unreal Engine, C++, Blender and Krita, all of which bring ideas to life.&#xA;Furthermore, I possess knowledge in project build systems, employing CMake and Premake. Additionally, I leverage Python for the development of automated setup scripts. Concurrently, I am dedicated to the construction of my own 3D game engine using C++.&#xA;In parallel, I am cultivating my skills as a concept artist, specializing in creating illustrations with Krita.&#xA;Thank you for considering my professional background. I am enthusiastic about the opportunity to contribute to and collaborate on innovative projects within the realm of game development and artistic expression.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

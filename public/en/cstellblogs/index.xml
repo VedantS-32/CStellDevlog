@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cstellblogs on CStellDevlog</title>
+    <link>http://localhost:1313/CStellDevlog/en/cstellblogs/</link>
+    <description>Recent content in Cstellblogs on CStellDevlog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 07 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/CStellDevlog/en/cstellblogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Constellation Engine Blog0</title>
+      <link>http://localhost:1313/CStellDevlog/en/cstellblogs/cstell_blog0/</link>
+      <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/CStellDevlog/en/cstellblogs/cstell_blog0/</guid>
+      <description>&lt;h3 id=&#34;loading-models-in-cstell&#34;&gt;Loading models in CStell!&lt;/h3&gt;&#xA;&lt;p&gt;CStell uses .csmesh file to hold metadata to 3D intermediate format. Model class is container for these imported meshes and hold information about material associated with it.&#xA;&lt;video autoplay=&#34;&#34; loop=&#34;&#34; muted=&#34;&#34; playsinline=&#34;&#34; title= &#34;LoadingModels&#34; &gt;&#xD;&#xA;  &lt;source src=&#34;http://localhost:1313/CStellDevlog/ConstellationEngine/Blog0/CStell_LoadingModel.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xD;&#xA;&lt;/video&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;drag-n-drop-model-and-material-system&#34;&gt;Drag N&amp;rsquo; Drop model and material system&lt;/h3&gt;&#xA;&lt;p&gt;You can drag n&amp;rsquo; drop meshes(.csmesh) and materials(.csmat) to change them.&#xA;&lt;video autoplay=&#34;&#34; loop=&#34;&#34; muted=&#34;&#34; playsinline=&#34;&#34; title= &#34;DragNDrop&#34; &gt;&#xD;&#xA;  &lt;source src=&#34;http://localhost:1313/CStellDevlog/ConstellationEngine/Blog0/CStell_DragNDrop.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xD;&#xA;&lt;/video&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;shader-uniform-reflection&#34;&gt;Shader uniform reflection&lt;/h3&gt;&#xA;&lt;p&gt;Shader uniforms are automatically reflected to editor&#xA;&lt;video autoplay=&#34;&#34; loop=&#34;&#34; muted=&#34;&#34; playsinline=&#34;&#34; title= &#34;ShaderReflection&#34; &gt;&#xD;&#xA;  &lt;source src=&#34;http://localhost:1313/CStellDevlog/ConstellationEngine/Blog0/CStell_ShaderReflection.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xD;&#xA;&lt;/video&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;instantaneous-material-reload&#34;&gt;Instantaneous material reload&lt;/h3&gt;&#xA;&lt;p&gt;Shaders can be recompiled without restarting the whole engine.&#xA;&lt;video autoplay=&#34;&#34; loop=&#34;&#34; muted=&#34;&#34; playsinline=&#34;&#34; title= &#34;MaterialReload&#34; &gt;&#xD;&#xA;  &lt;source src=&#34;http://localhost:1313/CStellDevlog/ConstellationEngine/Blog0/CStell_MaterialReload.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xD;&#xA;&lt;/video&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

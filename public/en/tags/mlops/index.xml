@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MLOPs on CStellDevlog</title>
+    <link>http://localhost:1313/CStellDevlog/en/tags/mlops/</link>
+    <description>Recent content in MLOPs on CStellDevlog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 24 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/CStellDevlog/en/tags/mlops/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hyperparameter Tuning and Model Selection</title>
+      <link>http://localhost:1313/CStellDevlog/en/blog/hyperparams/</link>
+      <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/CStellDevlog/en/blog/hyperparams/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Hyperparameter tuning is process of finding best parameters for training model.&#xA;It is like choosing right proportions of ingredients for cooking a recipe,&#xA;correct proportions of spices, how much oil and how long it should cook.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-are-hyperparameters&#34;&gt;What are Hyperparameters?&lt;/h2&gt;&#xA;&lt;p&gt;Hyperparameters are just combination of parameters, by using which we will get accurate and better model.&#xA;They are defined before the training the model, these settings affect how the model will learn from&#xA;the data.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

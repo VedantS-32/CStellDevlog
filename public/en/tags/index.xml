@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on CStellDevlog</title>
+    <link>http://localhost:1313/CStellDevlog/en/tags/</link>
+    <description>Recent content in Tags on CStellDevlog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 24 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/CStellDevlog/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Assignment</title>
+      <link>http://localhost:1313/CStellDevlog/en/tags/assignment/</link>
+      <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/CStellDevlog/en/tags/assignment/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Machine Learning</title>
+      <link>http://localhost:1313/CStellDevlog/en/tags/machine-learning/</link>
+      <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/CStellDevlog/en/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MLOPs</title>
+      <link>http://localhost:1313/CStellDevlog/en/tags/mlops/</link>
+      <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/CStellDevlog/en/tags/mlops/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>http://localhost:1313/CStellDevlog/en/tags/python/</link>
+      <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/CStellDevlog/en/tags/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>3D</title>
+      <link>http://localhost:1313/CStellDevlog/en/tags/3d/</link>
+      <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/CStellDevlog/en/tags/3d/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blog</title>
+      <link>http://localhost:1313/CStellDevlog/en/tags/blog/</link>
+      <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/CStellDevlog/en/tags/blog/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blueprint</title>
+      <link>http://localhost:1313/CStellDevlog/en/tags/blueprint/</link>
+      <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/CStellDevlog/en/tags/blueprint/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>C&#43;&#43;</title>
+      <link>http://localhost:1313/CStellDevlog/en/tags/c&#43;&#43;/</link>
+      <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/CStellDevlog/en/tags/c&#43;&#43;/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Game</title>
+      <link>http://localhost:1313/CStellDevlog/en/tags/game/</link>
+      <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/CStellDevlog/en/tags/game/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Game Development</title>
+      <link>http://localhost:1313/CStellDevlog/en/tags/game-development/</link>
+      <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/CStellDevlog/en/tags/game-development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Game Engine</title>
+      <link>http://localhost:1313/CStellDevlog/en/tags/game-engine/</link>
+      <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/CStellDevlog/en/tags/game-engine/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Horror</title>
+      <link>http://localhost:1313/CStellDevlog/en/tags/horror/</link>
+      <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/CStellDevlog/en/tags/horror/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OpenGL</title>
+      <link>http://localhost:1313/CStellDevlog/en/tags/opengl/</link>
+      <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/CStellDevlog/en/tags/opengl/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pixel Art</title>
+      <link>http://localhost:1313/CStellDevlog/en/tags/pixel-art/</link>
+      <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/CStellDevlog/en/tags/pixel-art/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Premake</title>
+      <link>http://localhost:1313/CStellDevlog/en/tags/premake/</link>
+      <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/CStellDevlog/en/tags/premake/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Puzzle</title>
+      <link>http://localhost:1313/CStellDevlog/en/tags/puzzle/</link>
+      <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/CStellDevlog/en/tags/puzzle/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>RPG</title>
+      <link>http://localhost:1313/CStellDevlog/en/tags/rpg/</link>
+      <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/CStellDevlog/en/tags/rpg/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Story</title>
+      <link>http://localhost:1313/CStellDevlog/en/tags/story/</link>
+      <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/CStellDevlog/en/tags/story/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Unreal Engine</title>
+      <link>http://localhost:1313/CStellDevlog/en/tags/unreal-engine/</link>
+      <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/CStellDevlog/en/tags/unreal-engine/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vulkan</title>
+      <link>http://localhost:1313/CStellDevlog/en/tags/vulkan/</link>
+      <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/CStellDevlog/en/tags/vulkan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/CStellDevlog/en/tags/about/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/CStellDevlog/en/tags/about/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2D Illustration</title>
+      <link>http://localhost:1313/CStellDevlog/en/tags/2d-illustration/</link>
+      <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/CStellDevlog/en/tags/2d-illustration/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blender</title>
+      <link>http://localhost:1313/CStellDevlog/en/tags/blender/</link>
+      <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/CStellDevlog/en/tags/blender/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Drawing</title>
+      <link>http://localhost:1313/CStellDevlog/en/tags/drawing/</link>
+      <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/CStellDevlog/en/tags/drawing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ECS</title>
+      <link>http://localhost:1313/CStellDevlog/en/tags/ecs/</link>
+      <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/CStellDevlog/en/tags/ecs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>FireStoreAPI</title>
+      <link>http://localhost:1313/CStellDevlog/en/tags/firestoreapi/</link>
+      <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/CStellDevlog/en/tags/firestoreapi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Godot</title>
+      <link>http://localhost:1313/CStellDevlog/en/tags/godot/</link>
+      <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/CStellDevlog/en/tags/godot/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GoogleAPI</title>
+      <link>http://localhost:1313/CStellDevlog/en/tags/googleapi/</link>
+      <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/CStellDevlog/en/tags/googleapi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Krita</title>
+      <link>http://localhost:1313/CStellDevlog/en/tags/krita/</link>
+      <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/CStellDevlog/en/tags/krita/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Project</title>
+      <link>http://localhost:1313/CStellDevlog/en/tags/project/</link>
+      <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/CStellDevlog/en/tags/project/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SFML</title>
+      <link>http://localhost:1313/CStellDevlog/en/tags/sfml/</link>
+      <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/CStellDevlog/en/tags/sfml/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Spreadsheet</title>
+      <link>http://localhost:1313/CStellDevlog/en/tags/spreadsheet/</link>
+      <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/CStellDevlog/en/tags/spreadsheet/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>YouTubeAPI</title>
+      <link>http://localhost:1313/CStellDevlog/en/tags/youtubeapi/</link>
+      <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/CStellDevlog/en/tags/youtubeapi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Test</title>
+      <link>http://localhost:1313/CStellDevlog/en/tags/test/</link>
+      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/CStellDevlog/en/tags/test/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

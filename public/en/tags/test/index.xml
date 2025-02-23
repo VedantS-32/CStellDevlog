@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Test on CStellDevlog</title>
+    <link>http://localhost:1313/CStellDevlog/en/tags/test/</link>
+    <description>Recent content in Test on CStellDevlog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 15 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/CStellDevlog/en/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3D Environments Digital</title>
+      <link>http://localhost:1313/CStellDevlog/en/bak/environmentdesignpanel/</link>
+      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/CStellDevlog/en/bak/environmentdesignpanel/</guid>
+      <description>&lt;h3 id=&#34;this-is-test-for-homepage&#34;&gt;This is test for homepage&lt;/h3&gt;&#xA;&lt;p&gt;Hello!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
