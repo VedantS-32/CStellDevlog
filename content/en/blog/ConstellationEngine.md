@@ -1,7 +1,7 @@
 ---
 author: "Vedant Shahare"
 title: "Constellation Engine"
-date: 2024-01-14
+date: 2025-02-16
 uniqueID: 1
 projectType: "Ongoing"
 description: "3D game engine written in C++"

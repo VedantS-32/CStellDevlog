@@ -50,9 +50,11 @@
   <link rel="icon" href="/CStell2.png">
 
   <title>
-  Game Development - CStellDevlog
+  Constellation Engine - CStellDevlog
   </title>
-  <meta name="description" content="" /><meta name="generator" content="Hugo 0.144.2"><link rel="stylesheet" href="/CStellDevlog/css/styles.css" /><link
+  <meta name="description" content="3D game engine written in C&#43;&#43;" />
+  <meta name="author" content="Vedant Shahare" />
+  <meta name="generator" content="Hugo 0.144.2"><link rel="stylesheet" href="/CStellDevlog/css/styles.css" /><link
     rel="stylesheet"
     href="http://localhost:1313/CStellDevlog/css/styles.min.e5afcebf18676f4880a9b89ac579bb7279299a1e7af2989437b9d6049727832d.css"
     integrity="sha256-5a/Ovxhnb0iAqbiaxXm7cnkpmh568piUN7nWBJcngy0="
@@ -61,21 +63,34 @@
   
   
 
-  <link rel="alternate" type="application/rss+xml" href="http://localhost:1313/CStellDevlog/en/tags/game-development/index.xml" title="CStellDevlog" />
-  <meta property="og:url" content="http://localhost:1313/CStellDevlog/en/tags/game-development/">
+  <meta property="og:url" content="http://localhost:1313/CStellDevlog/en/project/constellationengine/">
   <meta property="og:site_name" content="CStellDevlog">
-  <meta property="og:title" content="Game Development">
+  <meta property="og:title" content="Constellation Engine">
+  <meta property="og:description" content="3D game engine written in C&#43;&#43;">
   <meta property="og:locale" content="en">
-  <meta property="og:type" content="website">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="project">
+    <meta property="article:published_time" content="2025-02-16T00:00:00+00:00">
+    <meta property="article:modified_time" content="2025-02-16T00:00:00+00:00">
+    <meta property="article:tag" content="Game Development">
+    <meta property="article:tag" content="Game Engine">
+    <meta property="article:tag" content="C&#43;&#43;">
+    <meta property="article:tag" content="OpenGL">
+    <meta property="article:tag" content="Vulkan">
+    <meta property="article:tag" content="3D">
 
   
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Game Development">
+  <meta name="twitter:title" content="Constellation Engine">
+  <meta name="twitter:description" content="3D game engine written in C&#43;&#43;">
 
   
-  <meta itemprop="name" content="Game Development">
-  <meta itemprop="datePublished" content="2024-08-07T00:00:00+00:00">
-  <meta itemprop="dateModified" content="2024-08-07T00:00:00+00:00">
+  <meta itemprop="name" content="Constellation Engine">
+  <meta itemprop="description" content="3D game engine written in C&#43;&#43;">
+  <meta itemprop="datePublished" content="2025-02-16T00:00:00+00:00">
+  <meta itemprop="dateModified" content="2025-02-16T00:00:00+00:00">
+  <meta itemprop="wordCount" content="241">
+  <meta itemprop="keywords" content="Game Development,Game Engine,C&#43;&#43;,OpenGL,Vulkan,3D,Premake">
 
   
 </head>
@@ -141,21 +156,180 @@
   </ul>
 </header>
 <main class="flex-1">
-
-  <h1 class="container px-2 pt-6 mx-auto text-3xl font-bold">Game Development</h1>
+  
+  
 
   
-  <div class="container p-2 mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 lg:gap-8">
+  <div class="relative max-w-5xl mx-auto px-4">
+    <img src="/CStellDevlog/ConstellationEngine/CStell_tbn1.png" class=" shadow-sm w-full object-contain" />
+    
+    <div class="absolute top-4 right-8 rounded shadow bg-white text-gray-900 dark:bg-gray-900 dark:text-white px-2 py-0.5">
+      
+  
+    February 16, 2025
+  
+
+
+    </div>
+    
+  </div>
+  
+
+  <article class="prose lg:prose-lg mx-auto my-8 dark:prose-dark px-4">
+
+    <h1 class="text-2xl font-bold mb-2">Constellation Engine</h1>
+    
+    <h5 class="text-sm flex items-center flex-wrap">
+      <svg xmlns="http://www.w3.org/2000/svg" class="mr-1" width="16" height="16" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+        <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+        <rect x="4" y="5" width="16" height="16" rx="2" />
+        <line x1="16" y1="3" x2="16" y2="7" />
+        <line x1="8" y1="3" x2="8" y2="7" />
+        <line x1="4" y1="11" x2="20" y2="11" />
+        <rect x="8" y="15" width="2" height="2" />
+      </svg>
+      Posted on 
+  
+    February 16, 2025
+  
+
+
+      
+        &nbsp;&bull;&nbsp;
+      
+      <svg xmlns="http://www.w3.org/2000/svg" class="mr-1" width="16" height="16" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+        <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+        <circle cx="12" cy="12" r="9" />
+        <polyline points="12 7 12 12 15 15" />
+      </svg>
+      2&nbsp;minutes
+      &nbsp;&bull;
+      <svg xmlns="http://www.w3.org/2000/svg" class="mx-1" width="16" height="16" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+        <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+        <path d="M3 19a9 9 0 0 1 9 0a9 9 0 0 1 9 0" />
+        <path d="M3 6a9 9 0 0 1 9 0a9 9 0 0 1 9 0" />
+        <line x1="3" y1="6" x2="3" y2="19" />
+        <line x1="12" y1="6" x2="12" y2="19" />
+        <line x1="21" y1="6" x2="21" y2="19" />
+      </svg>
+      241&nbsp;words
+      
+        
+      
+    </h5>
+    
+
+    <details id="TableOfContents" class="px-4 mt-4 bg-gray-100 dark:bg-gray-700 rounded toc">
+    <summary class="flex items-center font-bold py-2 px-4 cursor-pointer justify-between select-none text-black dark:text-white">
+      <span>Table of contents</span>
+      <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-chevron-down" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+        <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+        <polyline points="6 9 12 15 18 9"></polyline>
+     </svg>
+    </summary>
+
+    <ul class="mt-2 pb-4">
+        
+
+        
+        <li>
+        <a href="#constellation-engine">Constellation Engine</a>
+        
+
+        
+        </li><li>
+        <a href="#cgraphicscore">CGraphicsCore</a>
+        
+
+        
+        </li><li>
+        <a href="#prerequisites">Prerequisites</a>
+        
+
+        
+        </li><li>
+        <a href="#clone-repository">Clone repository</a>
+        
+
+        
+        </li><li>
+        <a href="#build-instructions">Build Instructions</a>
+        
+
+        
+        </li><li>
+        <a href="#aims">Aims</a>
+        </li></ul>
+  </details>
+
+    <h3 id="constellation-engine">Constellation Engine</h3>
+<p>Rendering Constellations!</p>
+<p>3D Game Engine written in C++</p>
+<h3 id="cgraphicscore">CGraphicsCore</h3>
+<p>Please visit CGraphicsCore repository for latest version Constellation Engine codebase
+<a href="https://github.com/VedantS-32/CGraphicsCore" target="_blank" rel="noopener">CGraphicsCore</a>
+</p>
+<p>3D renderer and framework for learning OpenGL. It is rewrite of Constellation Engine(CStell) for educational purpose and betterment of CStell.</p>
+<p><del><a href="https://github.com/VedantS-32/ConstellationEngine" target="_blank" rel="noopener">Old Version</a>
+</del></p>
+<h3 id="prerequisites">Prerequisites</h3>
+<ul>
+<li>C++ compiler(tested with gcc, clang and msvc)</li>
+<li>Make</li>
+<li>Python</li>
+<li>Git</li>
+</ul>
+<h3 id="clone-repository">Clone repository</h3>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-shell" data-lang="shell"><span style="display:flex;"><span>git clone --recursive https://github.com/VedantS-32/CGraphicsCore.git
+</span></span></code></pre></div><h3 id="build-instructions">Build Instructions</h3>
+<ul>
+<li>Go to &ldquo;script&rdquo; folder</li>
+<li>Note: Currently due to some platform specifics, CGraphicsCore doesn&rsquo;t compile on Unix platforms, it will be supported in future</li>
+<li>Run CGraphicsSetup script for your platform</li>
+<li>Then run GenerateProject for your platform</li>
+<li>By default it will generate Makefile, please change Script/GenerateProject to generate project files for your IDE</li>
+</ul>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-shell" data-lang="shell"><span style="display:flex;"><span>vendor/premake/bin/premake5.exe gmake2 <span style="color:#6272a4">#&lt;-- Replace gmake2 with vs2022 for Visual Studio Solution</span>
+</span></span></code></pre></div><ul>
+<li>If you have generated Visual Studio Solution, .sln file will be in root directory</li>
+<li>if you have generated Makefile, open terminal in root directory and enter following command to build CGraphicsCore. After building go to CGraphicsSandbox and launch the binary (CGrpahicsSandbox.exe for Windows)</li>
+</ul>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-shell" data-lang="shell"><span style="display:flex;"><span>make -j <span style="color:#6272a4">#Number of core you want to allocate for compilation</span>
+</span></span></code></pre></div><ul>
+<li>Additionally you can specify build configuration and compiler</li>
+</ul>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-shell" data-lang="shell"><span style="display:flex;"><span>make <span style="color:#8be9fd;font-style:italic">CC</span><span style="color:#ff79c6">=</span> C_Compiler <span style="color:#8be9fd;font-style:italic">CXX</span><span style="color:#ff79c6">=</span> C++_Compiler <span style="color:#8be9fd;font-style:italic">config</span><span style="color:#ff79c6">=</span>BuildConfig -j Cores
+</span></span></code></pre></div><ul>
+<li>Example</li>
+</ul>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-shell" data-lang="shell"><span style="display:flex;"><span>    make <span style="color:#8be9fd;font-style:italic">CC</span><span style="color:#ff79c6">=</span>gcc <span style="color:#8be9fd;font-style:italic">CXX</span><span style="color:#ff79c6">=</span>g++ <span style="color:#8be9fd;font-style:italic">config</span><span style="color:#ff79c6">=</span>release -j <span style="color:#bd93f9">4</span>
+</span></span></code></pre></div><h3 id="aims">Aims</h3>
+<ul>
+<li>To learn how game engines work under the hood</li>
+<li>Creating massive open worlds</li>
+<li>To be able to handle the scale of universe</li>
+<li>Accurate rendering and simulation of galactic bodies like galaxies, constellation etc</li>
+<li>To render unique semi-realistic artstyle</li>
+</ul>
+
+  </article>
+
+  
+
+  
+  
+  <h1 class="text-2xl font-bold mb-4;" style="padding: 2%;"> Blogs </h1>
+  <div class="container p-6 mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 lg:gap-8">
     <div class="p-2">
-    <a href="http://localhost:1313/CStellDevlog/en/project/inacorneroftheworld/">
+    <a href="http://localhost:1313/CStellDevlog/en/cstellblogs/cstell_blog0/">
       
       <div class="relative">
-        <img src="/CStellDevlog/InACornerOfTheWorld/ICW_tbn2.png" alt="In a Corner of the World" class="rounded-lg shadow-sm w-full h-52 object-cover" />
+        <img src="/CStellDevlog/ConstellationEngine/CStell_tbn1.png" alt="Constellation Engine Blog0" class="rounded-lg shadow-sm w-full h-52 object-cover" />
         
         <div class="absolute top-4 right-4 rounded shadow bg-white text-gray-900 dark:bg-gray-900 dark:text-white text-sm px-2 py-0.5">
           
   
-    Jan 15, 24
+    Aug 7, 24
   
 
 
@@ -163,153 +337,33 @@
         
       </div>
       
-      <div class="my-2 text-xl font-semibold">In a Corner of the World</div>
-      <div>A small puzzle horror RPG</div>
-    </a>
-    
-      
-    
-    </div><div class="p-2">
-    <a href="http://localhost:1313/CStellDevlog/en/ongoing/inacorneroftheworld/">
-      
-      <div class="relative">
-        <img src="/CStellDevlog/InACornerOfTheWorld/ICW_tbn2.png" alt="In a Corner of the World" class="rounded-lg shadow-sm w-full h-52 object-cover" />
-        
-        <div class="absolute top-4 right-4 rounded shadow bg-white text-gray-900 dark:bg-gray-900 dark:text-white text-sm px-2 py-0.5">
-          
-  
-    Jan 15, 24
-  
-
-
-        </div>
-        
-      </div>
-      
-      <div class="my-2 text-xl font-semibold">In a Corner of the World</div>
-      <div>A small puzzle horror RPG</div>
-    </a>
-    
-      
-    
-    </div><div class="p-2">
-    <a href="http://localhost:1313/CStellDevlog/en/project/constellationengine/">
-      
-      <div class="relative">
-        <img src="/CStellDevlog/ConstellationEngine/CStell_tbn1.png" alt="Constellation Engine" class="rounded-lg shadow-sm w-full h-52 object-cover" />
-        
-        <div class="absolute top-4 right-4 rounded shadow bg-white text-gray-900 dark:bg-gray-900 dark:text-white text-sm px-2 py-0.5">
-          
-  
-    Jan 14, 24
-  
-
-
-        </div>
-        
-      </div>
-      
-      <div class="my-2 text-xl font-semibold">Constellation Engine</div>
-      <div>3D game engine written in C&#43;&#43;</div>
-    </a>
-    
-      
-    
-    </div><div class="p-2">
-    <a href="http://localhost:1313/CStellDevlog/en/ongoing/constellationengine/">
-      
-      <div class="relative">
-        <img src="/CStellDevlog/ConstellationEngine/CStell_tbn1.png" alt="Constellation Engine" class="rounded-lg shadow-sm w-full h-52 object-cover" />
-        
-        <div class="absolute top-4 right-4 rounded shadow bg-white text-gray-900 dark:bg-gray-900 dark:text-white text-sm px-2 py-0.5">
-          
-  
-    Jan 14, 24
-  
-
-
-        </div>
-        
-      </div>
-      
-      <div class="my-2 text-xl font-semibold">Constellation Engine</div>
-      <div>3D game engine written in C&#43;&#43;</div>
-    </a>
-    
-      
-    
-    </div><div class="p-2">
-    <a href="http://localhost:1313/CStellDevlog/en/blog/constellationengine/">
-      
-      <div class="relative">
-        <img src="/CStellDevlog/ConstellationEngine/CStell_tbn1.png" alt="Constellation Engine" class="rounded-lg shadow-sm w-full h-52 object-cover" />
-        
-        <div class="absolute top-4 right-4 rounded shadow bg-white text-gray-900 dark:bg-gray-900 dark:text-white text-sm px-2 py-0.5">
-          
-  
-    Jan 14, 24
-  
-
-
-        </div>
-        
-      </div>
-      
-      <div class="my-2 text-xl font-semibold">Constellation Engine</div>
-      <div>3D game engine written in C&#43;&#43;</div>
-    </a>
-    
-      
-    
-    </div><div class="p-2">
-    <a href="http://localhost:1313/CStellDevlog/en/project/cstellsfml/">
-      
-      <div class="relative">
-        <img src="/CStellDevlog/CStellEngineSFML/CStellSFML_Thumbnail.png" alt="CStellSFML 2D Game Engine" class="rounded-lg shadow-sm w-full h-52 object-cover" />
-        
-        <div class="absolute top-4 right-4 rounded shadow bg-white text-gray-900 dark:bg-gray-900 dark:text-white text-sm px-2 py-0.5">
-          
-  
-    Jan 7, 24
-  
-
-
-        </div>
-        
-      </div>
-      
-      <div class="my-2 text-xl font-semibold">CStellSFML 2D Game Engine</div>
-      <div>2D Game Engine written in C&#43;&#43; and SFML, Implementing ECS Architecture</div>
+      <div class="my-2 text-xl font-semibold">Constellation Engine Blog0</div>
+      <div>Added model and material system</div>
     </a>
     
       
     
     </div>
-  </div><div class="grid place-items-center mb-8">
+  </div>
   
-    <ul class="pagination pagination-default">
-      <li class="page-item">
-        <a href="/CStellDevlog/en/tags/game-development/" aria-label="First" class="page-link" role="button"><span aria-hidden="true">&laquo;&laquo;</span></a>
-      </li>
-      <li class="page-item">
-        <a href="/CStellDevlog/en/tags/game-development/" aria-label="Previous" class="page-link" role="button"><span aria-hidden="true">&laquo;</span></a>
-      </li>
-      <li class="page-item">
-        <a href="/CStellDevlog/en/tags/game-development/" aria-label="Page 1" class="page-link" role="button">1</a>
-      </li>
-      <li class="page-item active">
-        <a aria-current="page" aria-label="Page 2" class="page-link" role="button">2</a>
-      </li>
-      <li class="page-item">
-        <a href="/CStellDevlog/en/tags/game-development/page/3/" aria-label="Page 3" class="page-link" role="button">3</a>
-      </li>
-      <li class="page-item">
-        <a href="/CStellDevlog/en/tags/game-development/page/3/" aria-label="Next" class="page-link" role="button"><span aria-hidden="true">&raquo;</span></a>
-      </li>
-      <li class="page-item">
-        <a href="/CStellDevlog/en/tags/game-development/page/3/" aria-label="Last" class="page-link" role="button"><span aria-hidden="true">&raquo;&raquo;</span></a>
-      </li>
-    </ul>
+<div class="px-2 mb-2">
+  
+  <script src="https://giscus.app/client.js"
+    data-repo=""
+    data-repo-id=""
+    data-category=""
+    data-category-id=""
+    data-mapping="pathname"
+    data-strict="0"
+    data-reactions-enabled="1"
+    data-emit-metadata="0"
+    data-input-position="bottom"
+    data-theme="preferred_color_scheme"
+    data-lang="en"
+    crossorigin="anonymous"
+    async>
+  </script>
+  
 </div>
 <div class="bg-rose-300 dark:bg-gray-900">
   <div class="container px-4 py-12 mx-auto max-w-4xl grid grid-cols-1 md:grid-cols-2 gap-4 items-center">

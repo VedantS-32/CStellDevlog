@@ -101,6 +101,9 @@
     <loc>http://localhost:1313/CStellDevlog/en/ongoing/inacorneroftheworld/</loc>
     <lastmod>2024-01-15T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/CStellDevlog/en/project/inacorneroftheworld/</loc>
+    <lastmod>2024-01-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/CStellDevlog/en/blog/icw_blog0/</loc>
     <lastmod>2024-01-15T00:00:00+00:00</lastmod>
   </url><url>
@@ -110,10 +113,16 @@
     <loc>http://localhost:1313/CStellDevlog/en/ongoing/</loc>
     <lastmod>2024-01-15T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/CStellDevlog/en/project/</loc>
+    <lastmod>2024-01-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/CStellDevlog/en/blog/constellationengine/</loc>
     <lastmod>2024-01-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/CStellDevlog/en/ongoing/constellationengine/</loc>
+    <lastmod>2024-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/CStellDevlog/en/project/constellationengine/</loc>
     <lastmod>2024-01-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/CStellDevlog/en/tags/2d-illustration/</loc>
@@ -162,9 +171,6 @@
     <lastmod>2024-01-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/CStellDevlog/en/tags/project/</loc>
-    <lastmod>2024-01-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/CStellDevlog/en/project/</loc>
     <lastmod>2024-01-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/CStellDevlog/en/artwork-blog/serenityinthedarkblog/</loc>

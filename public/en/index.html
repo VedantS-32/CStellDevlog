@@ -240,6 +240,83 @@
   
   <div class="container p-0 grid grid-cols-1 lg:gap-0">
 <div class="">
+  <a href="http://localhost:1313/CStellDevlog/en/ongoing/constellationengine/">
+    
+      <div class="relative scaled-image-container">
+        <div class="scaled-image-container fade-mask imageContainer_1"></div>
+        <div class="gradient-overlay"></div>
+        
+          <div class="absolute bottom-4 left-4 text-sm px-2 py-0.5">
+            
+  
+    Feb 16, 25
+  
+
+
+            <div class="my-2 text-xl font-semibold">Constellation Engine</div>
+            <div>3D game engine written in C&#43;&#43;</div>
+          </div>
+        
+      </div>
+
+      <script>
+        document.addEventListener("DOMContentLoaded", function () {
+          var uniqueID = "1";
+          var imageUrls = [
+            
+              "\/CStellDevlog\/ConstellationEngine\/CStell_Pic0.png",
+            
+              "\/CStellDevlog\/ConstellationEngine\/CStell_Pic1.png",
+            
+              "\/CStellDevlog\/ConstellationEngine\/CStell_Pic2.png",
+            
+          ];
+
+          var imageContainers = document.querySelectorAll(".imageContainer_" + uniqueID);
+          var slideIndex = 0;
+
+          function showNextSlide() {
+            for (var i = 0; i < imageContainers.length; i++) {
+              var slides = imageContainers[i].getElementsByClassName("mySlides");
+              for (var j = 0; j < slides.length; j++) {
+                slides[j].style.opacity = 0;
+              }
+            }
+
+            slideIndex++;
+            if (slideIndex >= imageUrls.length) {
+              slideIndex = 0;
+            }
+
+            var imgElement = document.createElement("img");
+            imgElement.src = imageUrls[slideIndex];
+            imgElement.alt = "Image " + (slideIndex + 1);
+            imgElement.classList.add("scaled-image", "mySlides");
+            imgElement.style = "float: right";
+
+            for (var k = 0; k < imageContainers.length; k++) {
+              imageContainers[k].innerHTML = '';
+              imageContainers[k].appendChild(imgElement);
+            }
+
+            imgElement.offsetWidth;
+
+            imgElement.style.opacity = 1;
+          }
+
+          var slideshowInterval = setInterval(showNextSlide, 3000);
+        });
+      </script>
+    
+  </a>
+
+  
+    
+  
+</div>
+
+  <div class="container p-0 grid grid-cols-1 lg:gap-0">
+<div class="">
   <a href="http://localhost:1313/CStellDevlog/en/ongoing/inacorneroftheworld/">
     
       <div class="relative scaled-image-container">
@@ -313,89 +390,58 @@
   
 </div>
 
-  <div class="container p-0 grid grid-cols-1 lg:gap-0">
-<div class="">
-  <a href="http://localhost:1313/CStellDevlog/en/ongoing/constellationengine/">
-    
-      <div class="relative scaled-image-container">
-        <div class="scaled-image-container fade-mask imageContainer_1"></div>
-        <div class="gradient-overlay"></div>
-        
-          <div class="absolute bottom-4 left-4 text-sm px-2 py-0.5">
-            
-  
-    Jan 14, 24
-  
-
-
-            <div class="my-2 text-xl font-semibold">Constellation Engine</div>
-            <div>3D game engine written in C&#43;&#43;</div>
-          </div>
-        
-      </div>
-
-      <script>
-        document.addEventListener("DOMContentLoaded", function () {
-          var uniqueID = "1";
-          var imageUrls = [
-            
-              "\/CStellDevlog\/ConstellationEngine\/CStell_Pic0.png",
-            
-              "\/CStellDevlog\/ConstellationEngine\/CStell_Pic1.png",
-            
-              "\/CStellDevlog\/ConstellationEngine\/CStell_Pic2.png",
-            
-          ];
-
-          var imageContainers = document.querySelectorAll(".imageContainer_" + uniqueID);
-          var slideIndex = 0;
-
-          function showNextSlide() {
-            for (var i = 0; i < imageContainers.length; i++) {
-              var slides = imageContainers[i].getElementsByClassName("mySlides");
-              for (var j = 0; j < slides.length; j++) {
-                slides[j].style.opacity = 0;
-              }
-            }
-
-            slideIndex++;
-            if (slideIndex >= imageUrls.length) {
-              slideIndex = 0;
-            }
-
-            var imgElement = document.createElement("img");
-            imgElement.src = imageUrls[slideIndex];
-            imgElement.alt = "Image " + (slideIndex + 1);
-            imgElement.classList.add("scaled-image", "mySlides");
-            imgElement.style = "float: right";
-
-            for (var k = 0; k < imageContainers.length; k++) {
-              imageContainers[k].innerHTML = '';
-              imageContainers[k].appendChild(imgElement);
-            }
-
-            imgElement.offsetWidth;
-
-            imgElement.style.opacity = 1;
-          }
-
-          var slideshowInterval = setInterval(showNextSlide, 3000);
-        });
-      </script>
-    
-  </a>
-
-  
-    
-  
-</div>
-
   </div>
 
   
   <h1 class="text-2xl font-bold mb-4;" style="padding: 2%;"> Projects </h1>
   <div class="container p-6 mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 lg:gap-8">
     <div class="p-2">
+    <a href="http://localhost:1313/CStellDevlog/en/project/constellationengine/">
+      
+      <div class="relative">
+        <img src="/CStellDevlog/ConstellationEngine/CStell_tbn1.png" alt="Constellation Engine" class="rounded-lg shadow-sm w-full h-52 object-cover" />
+        
+        <div class="absolute top-4 right-4 rounded shadow bg-white text-gray-900 dark:bg-gray-900 dark:text-white text-sm px-2 py-0.5">
+          
+  
+    Feb 16, 25
+  
+
+
+        </div>
+        
+      </div>
+      
+      <div class="my-2 text-xl font-semibold">Constellation Engine</div>
+      <div>3D game engine written in C&#43;&#43;</div>
+    </a>
+    
+      
+    
+    </div><div class="p-2">
+    <a href="http://localhost:1313/CStellDevlog/en/project/inacorneroftheworld/">
+      
+      <div class="relative">
+        <img src="/CStellDevlog/InACornerOfTheWorld/ICW_tbn2.png" alt="In a Corner of the World" class="rounded-lg shadow-sm w-full h-52 object-cover" />
+        
+        <div class="absolute top-4 right-4 rounded shadow bg-white text-gray-900 dark:bg-gray-900 dark:text-white text-sm px-2 py-0.5">
+          
+  
+    Jan 15, 24
+  
+
+
+        </div>
+        
+      </div>
+      
+      <div class="my-2 text-xl font-semibold">In a Corner of the World</div>
+      <div>A small puzzle horror RPG</div>
+    </a>
+    
+      
+    
+    </div><div class="p-2">
     <a href="http://localhost:1313/CStellDevlog/en/project/spreadsheetupdater/">
       
       <div class="relative">
@@ -604,6 +650,29 @@
   <h1 class="text-2xl font-bold mb-4;" style="padding: 2%;"> Blogs </h1>
   <div class="container p-6 mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 lg:gap-8">
     <div class="p-2">
+    <a href="http://localhost:1313/CStellDevlog/en/blog/constellationengine/">
+      
+      <div class="relative">
+        <img src="/CStellDevlog/ConstellationEngine/CStell_tbn1.png" alt="Constellation Engine" class="rounded-lg shadow-sm w-full h-52 object-cover" />
+        
+        <div class="absolute top-4 right-4 rounded shadow bg-white text-gray-900 dark:bg-gray-900 dark:text-white text-sm px-2 py-0.5">
+          
+  
+    Feb 16, 25
+  
+
+
+        </div>
+        
+      </div>
+      
+      <div class="my-2 text-xl font-semibold">Constellation Engine</div>
+      <div>3D game engine written in C&#43;&#43;</div>
+    </a>
+    
+      
+    
+    </div><div class="p-2">
     <a href="http://localhost:1313/CStellDevlog/en/blog/hyperparams/">
       
       <div class="relative">
@@ -691,29 +760,6 @@
       
       <div class="my-2 text-xl font-semibold">In a Corner of the World Blog0</div>
       <div>Getting Unreal Engine ready for Pixel Art</div>
-    </a>
-    
-      
-    
-    </div><div class="p-2">
-    <a href="http://localhost:1313/CStellDevlog/en/blog/constellationengine/">
-      
-      <div class="relative">
-        <img src="/CStellDevlog/ConstellationEngine/CStell_tbn1.png" alt="Constellation Engine" class="rounded-lg shadow-sm w-full h-52 object-cover" />
-        
-        <div class="absolute top-4 right-4 rounded shadow bg-white text-gray-900 dark:bg-gray-900 dark:text-white text-sm px-2 py-0.5">
-          
-  
-    Jan 14, 24
-  
-
-
-        </div>
-        
-      </div>
-      
-      <div class="my-2 text-xl font-semibold">Constellation Engine</div>
-      <div>3D game engine written in C&#43;&#43;</div>
     </a>
     
       
