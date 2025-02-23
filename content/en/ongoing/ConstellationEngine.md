@@ -23,11 +23,11 @@ Rendering Constellations!
 
 ### CGraphicsCore
 Please visit CGraphicsCore repository for latest version Constellation Engine codebase
-[CGraphicsCore](https://github.com/VedantS-32/ConstellationEngine)
+[CGraphicsCore](https://github.com/VedantS-32/CGraphicsCore)
 
 3D renderer and framework for learning OpenGL. It is rewrite of Constellation Engine(CStell) for educational purpose and betterment of CStell.
 
-~~[Old Version](https://github.com/VedantS-32/ConstellationEngine.git)~~
+~~[Old Version](https://github.com/VedantS-32/ConstellationEngine)~~
 
 
 ### Prerequisites
@@ -48,7 +48,7 @@ git clone --recursive https://github.com/VedantS-32/CGraphicsCore.git
 - Then run GenerateProject for your platform
 - By default it will generate Makefile, please change Script/GenerateProject to generate project files for your IDE
 ``` shell
-vendor\premake\bin\premake5.exe gmake2 #<-- Replace gmake2 with vs2022 for Visual Studio Solution
+vendor/premake/bin/premake5.exe gmake2 #<-- Replace gmake2 with vs2022 for Visual Studio Solution
 ```
 - If you have generated Visual Studio Solution, .sln file will be in root directory
 - if you have generated Makefile, open terminal in root directory and enter following command to build CGraphicsCore. After building go to CGraphicsSandbox and launch the binary (CGrpahicsSandbox.exe for Windows)
